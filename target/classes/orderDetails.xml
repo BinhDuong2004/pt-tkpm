@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orderDetails>
+    <orderDetail>
+        <id>1</id>
+        <orderId>PH01</orderId>
+        <productId>0001</productId>
+        <productName>Bò húc</productName>
+        <productPrice>12000</productPrice>
+        <productQuantity>1</productQuantity>
+    </orderDetail>
+    <orderDetail>
+        <id>2</id>
+        <orderId>PH01</orderId>
+        <productId>0002</productId>
+        <productName>Lavie</productName>
+        <productPrice>5000</productPrice>
+        <productQuantity>3</productQuantity>
+    </orderDetail>
+</orderDetails>

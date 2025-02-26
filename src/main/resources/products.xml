@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product>
+        <productExpiredDate>15-06-2024</productExpiredDate>
+        <importDate>10-06-2024</importDate>
+        <id>PZBC</id>
+        <price>1000</price>
+        <productCategory>Dầu gội</productCategory>
+        <productName>Dầu gội đầu</productName>
+        <productSupplier>Thái Dương</productSupplier>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <productExpiredDate>15-06-2024</productExpiredDate>
+        <importDate>10-07-2024</importDate>
+        <id>0002</id>
+        <price>5000</price>
+        <productCategory>Nước uống</productCategory>
+        <productName>Lavie</productName>
+        <productSupplier>Công ty nước sạch Hà Đông</productSupplier>
+        <quantity>9</quantity>
+    </product>
+    <product>
+        <productExpiredDate>19-09-2024</productExpiredDate>
+        <importDate>30-08-2024</importDate>
+        <id>0001</id>
+        <price>12000</price>
+        <productCategory>Nước uống</productCategory>
+        <productName>Bò húc</productName>
+        <productSupplier>Công ty NumberOne</productSupplier>
+        <quantity>10</quantity>
+    </product>
+    <product>
+        <productExpiredDate>19-09-2024</productExpiredDate>
+        <importDate>30-08-2024</importDate>
+        <id>BCD</id>
+        <price>12000</price>
+        <productCategory>Thực phẩm</productCategory>
+        <productName>Thịt Bò</productName>
+        <productSupplier>Cty Thịt</productSupplier>
+        <quantity>10</quantity>
+    </product>
+</products>
